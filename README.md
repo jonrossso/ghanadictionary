@@ -1,1 +1,1 @@
-# ghana-dictionary
+# ghanadictionary
