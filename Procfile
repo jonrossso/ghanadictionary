@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath ghiblimovs GhanaDictionary.wsgi --log-file -
